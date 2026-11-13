@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "BLPOP",
+        "llen",
+        "lpop",
+        "lpush",
+        "LRANGE",
+        "RPUSH"
+    ]
+}
